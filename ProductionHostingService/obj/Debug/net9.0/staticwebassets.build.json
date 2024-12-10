@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "x3bQGmWgoo/s/hOfvxDUPoJwghRdaolGyVATVCM0ikY=",
+  "Source": "ProductionHostingService",
+  "BasePath": "_content/ProductionHostingService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
